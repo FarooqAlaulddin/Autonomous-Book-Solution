@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "isbn": "9781593758426",
+      "title": "Eloquent JavaScript, Second Edition",
+      "subtitle": "A Modern Introduction to Programming",
+      "author": "Marijn Haverbeke",
+      "department": "Computer Science",
+      "quantity": "4",
+      "description": "JavaScript lies at the heart of almost every modern web application, from social apps to the newest browser-based games. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+    },
+    {
+      "isbn": "9781449318188",
+      "title": "Learning JavaScript Design Patterns",
+      "subtitle": "A JavaScript and jQuery Developer's Guide",
+      "author": "Addy Osmani",
+      "department": "Computer Science",
+      "quantity": "2",
+      "description": "With Learning JavaScript Design Patterns, you'll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable, and up-to-date with the latest best practices, this book is for you."
+    },
+    {
+      "isbn": "9781449650358",
+      "title": "Speaking JavaScript",
+      "subtitle": "An In-Depth Guide for Programmers",
+      "author": "Axel Rauschmayer",
+      "department": "Computer Science",
+      "quantity": "1",
+      "description": "Like it or not, JavaScript is everywhere these days-from browser to server to mobile-and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position."
+    },
+    {
+      "isbn": "9781491950296",
+      "title": "Programming JavaScript Applications",
+      "subtitle": "Robust Web Architecture with Node, HTML5, and Modern JS Libraries",
+      "author": "Eric Elliott",
+      "department": "Computer Science",
+      "quantity": "5",
+      "description": "Take advantage of JavaScript's power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that's easier-yes, easier-to work with as your code base grows."
+    },
+    {
+      "isbn": "97814919428346",
+      "title": "Contemporary Abstract Algebra",
+      "subtitle": "Understanding Math in Simple Way",
+      "author": "Joseph Gallian",
+      "department": "Math",
+      "quantity": "2",
+      "description": "The seventh edition of Contemporary Abstract Algebra covers the basics of abstract algebra with clarity and a rarely seen brightness. Opting for readability over the rigor many of its contemporaries embrace, this textbook provides an excellent starting point for any student looking to learn and understand the subject. Gallian’s writing is inviting and comprehensive, the proofs are rock-solid, and his overall handling of the topic and the reader is gentle – something beginners will be grateful for. Abundantly filled with exercises, well chosen examples, and even biographies on notable mathematicians, this book makes the perfect companion for both students and teaching assistants."
+    },
+    {
+      "isbn": "97814292485123",
+      "title": "Introduction to Algorithms, Third Edition",
+      "subtitle": "Understanding Algorithms in a Simple Way",
+      "author": "Thomas Cormen",
+      "department": "Math",
+      "quantity": "1",
+      "description": " Introduction to Algorithms is a distinctly theoretical but all-around comprehensive book. Its use is not only limited to those taking algorithms courses but can also be utilized by anyone as an extensive reference source. Readers will learn quintessential algorithms as well as concepts such as what makes an algorithm efficient and why. Students will need a bit of mathematical background to get from cover to cover, however those who are able to do so will be intrigued by the content depth and wide spectrum of topics covered. These topics run the gamut from classical algorithms to computational geometry."
+    },
+    {
+      "isbn": "97814919423948",
+      "title": "The Calculus Lifesaver: All the Tools You Need to Excel at Calculus",
+      "subtitle": "Understanding Calculus and Limits",
+      "author": "Joseph Gallian",
+      "department": "Math",
+      "quantity": "3",
+      "description": "Lengthy yet vital, this resource book is jam packed with straight-forward explanations and loads of solved problems for students to easily learn from. Excelling many of its contemporaries by leaps and bounds, The Calculus Lifesaver truly lives up to its title. Students who are tired of dreary calculus textbooks that provide no motivation behind the concepts will be gladly surprised by the detailed and informal approach Banner uses to capture their attention. He fills all gaps and leaves readers feeling satisfied and enlightened. This book dually holds the characteristics of both an instructive primary aid as well as that of a supplementary read. "
+    }
+  ]
+}
