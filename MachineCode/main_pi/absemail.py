@@ -5,7 +5,7 @@ def sendmail(recipient, subject, content):
     SMTP_SERVER = 'smtp.gmail.com' #Email Server (don't change!)
     SMTP_PORT = 587 #Server Port (don't change!)
     GMAIL_USERNAME = 'absreservations24.7@gmail.com' #change this to match your gmail account
-    GMAIL_PASSWORD = '04112021'  #change this to match your gmail password
+    GMAIL_PASSWORD = '*******'  #change this to match your gmail password
 
     #Create Headers
     headers = ["From: " + GMAIL_USERNAME, "Subject: " + subject, "To: " + recipient,
